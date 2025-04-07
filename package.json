@@ -1,0 +1,23 @@
+{
+  "name": "qa-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haniazanaw/QA-Class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haniazanaw/QA-Class/issues"
+  },
+  "homepage": "https://github.com/haniazanaw/QA-Class#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
